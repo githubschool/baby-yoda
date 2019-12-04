@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to dumpsterfire's slide!"
 ---
 
-Caption here
+Get your holiday bronze on before your family is in town! 
 
-![droidtocat](https://octodex.github.com/images/droidtocat.png)
+![gobble-o-tron](https://octodex.github.com/images/gobbleotron.gif)
 {: .center}
