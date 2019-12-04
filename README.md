@@ -7,9 +7,7 @@
 
 If you have a question, or need assistance during class, **please create an issue and mention @beardofedu**.
 
-## Give Us Feedback
-
-Please take a moment to complete the class survey at: SURVEY-LINK.
+![baby yoda](https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif)
 
 ## Scripts for Adding Files
 
